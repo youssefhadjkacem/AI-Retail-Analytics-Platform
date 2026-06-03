@@ -50,10 +50,10 @@ Full reporting suite including annotated video, event logs, and visual charts â€
 <table>
   <tr>
     <td align="center">
-      <img src="1.png" alt="Customer Tracking View" width="100%" />
+      <img src="1.jpg" alt="Customer Tracking View" width="100%" />
     </td>
     <td align="center">
-      <img src="2.png" alt="Analytics Dashboard" width="100%" />
+      <img src="2.jpeg" alt="Analytics Dashboard" width="100%" />
     </td>
   </tr>
 </table>
